@@ -1,4 +1,4 @@
-# Analyes Feeiing image 
+# Analyes Feeling image 
 
 Use Keras model for Analyes image from photo 
 Deploy By Falsk python
